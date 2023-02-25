@@ -1,0 +1,33 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/*=============== VARIABLES CSS ===============*/
+:root {
+  /*========== Colors ==========*/
+  --hue-color: 225;
+  --first-color: ;
+  --title-color: ;
+  --text-color: ;
+  --body-color: ;
+  --container-color: ;
+  /*========== Font and typography ==========*/
+  --body-font: ;
+  --normal-font-size: ;
+  --small-font-size: ;
+  --smaller-font-size: ;
+}
+
+@media screen and (min-width: 968px) {
+  :root {
+    --normal-font-size: ;
+    --small-font-size: ;
+    --smaller-font-size: ;
+  }
+}
+
+/*=============== BASE ===============*/
+/*=============== LAYOUT ===============*/
+/*=============== ACCORDION ===============*/
+/*Rotate icon and add font weight to titles*/
+/*=============== MEDIA QUERIES ===============*/
+/* For medium devices */
+/* For large devices */
