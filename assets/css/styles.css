@@ -4,23 +4,23 @@
 :root {
   /*========== Colors ==========*/
   --hue-color: 225;
-  --first-color: ;
-  --title-color: ;
-  --text-color: ;
-  --body-color: ;
-  --container-color: ;
+  --first-color: hsl(var(--hue-color), 48%, 35%);
+  --title-color: hsl(var(--hue-color), 48%, 22%);
+  --text-color: hsl(var(--hue-color), 48%, 35%);
+  --body-color: hsl(var(--hue-color), 48%, 98%);
+  --container-color: #FFF;
   /*========== Font and typography ==========*/
-  --body-font: ;
-  --normal-font-size: ;
-  --small-font-size: ;
-  --smaller-font-size: ;
+  --body-font: 'Poppins', sans-sarif;
+  --normal-font-size: .938rem;
+  --small-font-size: .813rem;
+  --smaller-font-size: .75rem;
 }
 
 @media screen and (min-width: 968px) {
   :root {
-    --normal-font-size: ;
-    --small-font-size: ;
-    --smaller-font-size: ;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+    --smaller-font-size: .813rem;
   }
 }
 
